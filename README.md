@@ -58,16 +58,18 @@
 
 - 微信公众号：南荣相如
 - 邮箱：1282301776@qq.com
+- 主页：https://home.nanrong.store/
 - Github: https://github.com/zcqiand
 
 ## 微信公众号
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-![](https://raw.githubusercontent.com/zcqiand/nanrong/main/assets/weixin.jpg)
+![](https://home.nanrong.store/assets/weixin.jpg)
 
 ## 捐赠支持
 
-项目的发展离不开你的支持，如果觉得我们的内容对于你有所帮助，请作者喝杯咖啡吧！ 后续会继续完善更新！一起加油！
+如果觉得我们的内容对于你有所帮助，请作者喝杯咖啡吧！ 后续会继续完善更新！一起加油！
 
-![](https://raw.githubusercontent.com/zcqiand/nanrong/main/assets/zhifu.png)
+![](https://home.nanrong.store/assets/zhifu.png)
+
